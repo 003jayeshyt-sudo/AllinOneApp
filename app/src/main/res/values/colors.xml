@@ -1,0 +1,7 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- App backgrounds -->
+    <color name="app_background">#F5F6FA</color>   <!-- light grey -->
+</resources>
